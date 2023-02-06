@@ -1,0 +1,70 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Bettle Juice",
+      "image": "https://i.ibb.co/7rddtwK/movie-1.jpg",
+      "desc": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out."
+    },
+    {
+      "id": 2,
+      "title": "Pulp Fiction",
+      "image": "https://i.ibb.co/Hrdr2t6/movie-2.jpg",
+      "desc": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    },
+    {
+      "id": 3,
+      "title": "El laberinto del fauno",
+      "image": "https://i.ibb.co/rx3XHqy/movie-3.jpg",
+      "desc": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world."
+    },
+    {
+      "id": 4,
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "image": "https://i.ibb.co/7rmp8cj/movie-4.jpg",
+      "desc": "The legendary tale of a barber who returns from wrongful imprisonment to 1840s London, bent on revenge for the rape and death of his wife, and resumes his trade while forming a sinister partnership with his fellow tenant, Mrs. Lovett."
+    },
+    {
+      "id": 5,
+      "title": "Inglourious Basterds",
+      "image": "https://i.ibb.co/87HkLRC/movie-5.jpg",
+      "desc": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owners vengeful plans for the same."
+    },
+    {
+      "id": 6,
+      "title": "Monty Python and the Holy Grail",
+      "image": "https://i.ibb.co/h8pLHms/movie-6.jpg",
+      "desc": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles."
+    }
+  ],
+  "reviews": [
+    {
+      "movie_id": 2,
+      "author": "Ben",
+      "text": "Great movie!",
+      "rating": 10,
+      "id": 1
+    },
+    {
+      "movie_id": 6,
+      "author": "Coconut",
+      "text": "Killer rabbit FTW!",
+      "rating": 10,
+      "id": 2
+    },
+    {
+      "movie_id": 3,
+      "author": "Mister X",
+      "text": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et velit metus. Donec est ex, efficitur vitae rutrum eu, suscipit in tellus. Vestibulum lorem arcu, consectetur vitae fringilla vitae, tristique at nisi.",
+      "rating": 7,
+      "id": 3
+    },
+    {
+      "movie_id": 3,
+      "author": "July",
+      "text": "Vestibulum tincidunt et massa vitae commodo. Integer pharetra varius ornare. Nulla elit odio, vulputate sed nibh in, cursus ornare nulla. Pellentesque bibendum ante ultricies tellus iaculis sodales. Nulla ac mi efficitur, semper risus vitae, semper lacus. Duis nec euismod magna. Nunc viverra mauris id elementum suscipit. ",
+      "rating": 9,
+      "id": 4
+    }
+  ]
+}
